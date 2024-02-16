@@ -9,19 +9,12 @@
  solution	will	nonetheless	create	a	fun	user	experience!
  The	Road	Ahead
  We	break	the	notebook	into	separate	steps.	Feel	free	to	use	the	links	below	to	navigate	the	notebook.
- Step	0
- :	Import	Datasets
- Step	1
- :	Detect	Humans
- Step	2
- :	Detect	Dogs
- Step	3
- :	Create	a	CNN	to	Classify	Dog	Breeds	(from	Scratch)
- Step	4
- :	Create	a	CNN	to	Classify	Dog	Breeds	(using	Transfer	Learning)
- Step	5
- :	Write	your	Algorithm
- Step	6
- :	Test	Your	Algorithm
+ Step	0:	Import	Datasets
+ Step	1:	Detect	Humans
+ Step	2:	Detect	Dogs
+ Step	3:	Create	a	CNN	to	Classify	Dog	Breeds	(from	Scratch)
+ Step	4:	Create	a	CNN	to	Classify	Dog	Breeds	(using	Transfer	Learning)
+ Step	5:	Write	your	Algorithm
+ Step	6:	Test	Your	Algorithm
 
  Dataset link:https://www.kaggle.com/competitions/dog-breed-identification
